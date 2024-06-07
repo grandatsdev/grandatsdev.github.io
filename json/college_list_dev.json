@@ -17,7 +17,7 @@
       "school_name_th": "สำหรับนักพัฒนา",
       "school_name_en": "Developer",
       "edr_java_ipaddress": "https://test.appedr.com",
-      "edr_php_ipaddress": "http://127.0.0.1:8088"",
+      "edr_php_ipaddress": "http://127.0.0.1:8088",
       "socketsPath": "ws://127.0.0.1:9001"
     }
   ]

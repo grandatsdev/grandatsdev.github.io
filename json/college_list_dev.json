@@ -4,7 +4,7 @@
     "edr_php_app_name": "",
     "edr_plus_line_url": "https://line.me/R/ti/p/@789peqoh",
 	"list_alt":"https://cdn.jsdelivr.net/gh/grandatsdev/grandatsdev.github.io/json/college_list.json",
-	"list_dev_alt":"https://cdn.jsdelivr.net/gh/grandatsdev/grandatsdev.github.io/json/college_list_dev.json",
+	"list_dev_alt":"https://cdn.jsdelivr.net/gh/grandatsdev/grandatsdev.github.io/json/college_list_dev.json"
   },
   "app_version": {
     "app_version": "2.1.6",

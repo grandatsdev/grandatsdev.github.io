@@ -1,0 +1,256 @@
+{
+  "app_path": {
+    "edr_java_app_name": "edr",
+    "edr_php_app_name": "edr_php",
+    "edr_plus_line_url": "https://line.me/R/ti/p/@789peqoh"
+  },
+  "app_version": {
+    "app_version": "2.1.6",
+    "ios_app_version": "2.1.6",
+    "fource_update": false,
+    "pause_update": false,
+    "test_var": "1.0.5"
+  },
+  "customer_list": [
+    {
+      "college_code": "ksicec",
+      "school_name_th": "วิทยาลัยการอาชีพกาฬสินธุ์",
+      "school_name_en": "Kalasin Vocational College",
+      "edr_java_ipaddress": "https://ksicec.appedr.com",
+      "edr_php_ipaddress": "https://ksicec.appedr.com",
+      "socketsPath": "wss://ksicec.appedr.com/_ws_/"
+    },
+    {
+      "college_code": "kwicec",
+      "school_name_th": "วิทยาลัยการอาชีพกุมภวาปี",
+      "school_name_en": "Kumphawapi Industrial and Community Education College",
+      "edr_java_ipaddress": "https://kwicec.appedr.com",
+      "edr_php_ipaddress": "https://kwicec.appedr.com",
+      "socketsPath": "wss://kwicec.appedr.com/_ws_/"
+    },
+    {
+      "college_code": "cptech",
+      "school_name_th": "วิทยาลัยการอาชีพชุมพร",
+      "school_name_en": "Chumphon Industrial And Community Education College",
+      "edr_java_ipaddress": "https://cptech.appedr.com",
+      "edr_php_ipaddress": "https://cptech.appedr.com",
+      "socketsPath": "wss://cptech.appedr.com/_ws_/"
+    },
+    {
+      "college_code": "chp",
+      "school_name_th": "วิทยาลัยการอาชีพชุมพวง",
+      "school_name_en": "Chumphuang Industrial and Community Education College",
+      "edr_java_ipaddress": "https://chp.appedr.com",
+      "edr_php_ipaddress": "https://chp.appedr.com",
+      "socketsPath": "wss://chp.appedr.com/_ws_/"
+    },
+    {
+      "college_code": "tapc",
+      "school_name_th": "วิทยาลัยการอาชีพตะกั่วป่า",
+      "school_name_en": "Takuapa industrial and community education college",
+      "edr_java_ipaddress": "https://tapc.appedr.com",
+      "edr_php_ipaddress": "https://tapc.appedr.com",
+      "socketsPath": "wss://tapc.appedr.com/_ws_/"
+    },
+    {
+      "college_code": "takice",
+      "school_name_th": "วิทยาลัยการอาชีพตากฟ้า",
+      "school_name_en": "Takfa Industrial And Community Education College",
+      "edr_java_ipaddress": "https://takice.appedr.com",
+      "edr_php_ipaddress": "https://takice.appedr.com",
+      "socketsPath": "wss://takice.appedr.com/_ws_/"
+    },
+    {
+      "college_code": "bice",
+      "school_name_th": "วิทยาลัยการอาชีพบรรพตพิสัย",
+      "school_name_en": "Banphotphisai Industrial and Community Education College",
+      "edr_java_ipaddress": "https://bice.appedr.com",
+      "edr_php_ipaddress": "https://bice.appedr.com",
+      "socketsPath": "wss://bice.appedr.com/_ws_/"
+    },
+    {
+      "college_code": "bec",
+      "school_name_th": "วิทยาลัยการอาชีพบ้านผือ",
+      "school_name_en": "Banphue Industrial and Community Education College",
+      "edr_java_ipaddress": "https://bec.appedr.com",
+      "edr_php_ipaddress": "https://bec.appedr.com",
+      "socketsPath": "wss://bec.appedr.com/_ws_/"
+    },
+    {
+      "college_code": "mice",
+      "school_name_th": "วิทยาลัยการอาชีพมหาราช",
+      "school_name_en": "Maharaj Industial and Community Education College",
+      "edr_java_ipaddress": "https://mice.appedr.com",
+      "edr_php_ipaddress": "https://mice.appedr.com",
+      "socketsPath": "wss://mice.appedr.com/_ws_/"
+    },
+    {
+      "college_code": "sbr",
+      "school_name_th": "วิทยาลัยการอาชีพศรีบุญเรือง",
+      "school_name_en": "Si Bun Rueang Vocation College",
+      "edr_java_ipaddress": "https://sbr.appedr.com",
+      "edr_php_ipaddress": "https://sbr.appedr.com",
+      "socketsPath": "wss://sbr.appedr.com/_ws_/"
+    },
+    {
+      "college_code": "sangkhaicec",
+      "school_name_th": "วิทยาลัยการอาชีพสังขะ",
+      "school_name_en": "Sangkha Industrial and Community Education College",
+      "edr_java_ipaddress": "https://sangkhaicec.appedr.com",
+      "edr_php_ipaddress": "https://sangkhaicec.appedr.com",
+      "socketsPath": "wss://sangkhaicec.appedr.com/_ws_/"
+    },
+    {
+      "college_code": "nonghan",
+      "school_name_th": "วิทยาลัยการอาชีพหนองหาน",
+      "school_name_en": "Nong Han Vocational College",
+      "edr_java_ipaddress": "https://nonghan.appedr.com",
+      "edr_php_ipaddress": "https://nonghan.appedr.com",
+      "socketsPath": "wss://nonghan.appedr.com/_ws_/"
+    },
+    {
+      "college_code": "kec",
+      "school_name_th": "วิทยาลัยการอาชีพแก้งคร้อ",
+      "school_name_en": "Kaengkhro Industrial And Community Education College",
+      "edr_java_ipaddress": "https://kec.appedr.com",
+      "edr_php_ipaddress": "https://kec.appedr.com",
+      "socketsPath": "wss://kec.appedr.com/_ws_/"
+    },
+    {
+      "college_code": "udvc",
+      "school_name_th": "วิทยาลัยอาชีวศึกษาอุดรธานี",
+      "school_name_en": "Udonthani Vocational College",
+      "edr_java_ipaddress": "https://udvc.appedr.com",
+      "edr_php_ipaddress": "https://udvc.appedr.com",
+      "socketsPath": "wss://udvc.appedr.com/_ws_/"
+    },
+    {
+      "college_code": "kpsptc",
+      "school_name_th": "วิทยาลัยเทคนิคกาญจนาภิเษก สมุทรปราการ",
+      "school_name_en": "Kanchanaphisek Technical College, Samut Prakan",
+      "edr_java_ipaddress": "https://kpsptc.appedr.com",
+      "edr_php_ipaddress": "https://kpsptc.appedr.com",
+      "socketsPath": "wss://kpsptc.appedr.com/_ws_/"
+    },
+    {
+      "college_code": "taktc",
+      "school_name_th": "วิทยาลัยเทคนิคตาก",
+      "school_name_en": "Tak Technical College",
+      "edr_java_ipaddress": "https://taktc.appedr.com",
+      "edr_php_ipaddress": "https://taktc.appedr.com",
+      "socketsPath": "wss://taktc.appedr.com/_ws_/"
+    },
+    {
+      "college_code": "ntc",
+      "school_name_th": "วิทยาลัยเทคนิคนครราชสีมา",
+      "school_name_en": "Nakhon Ratchasima Technical College",
+      "edr_java_ipaddress": "https://ntc.appedr.com",
+      "edr_php_ipaddress": "https://ntc.appedr.com",
+      "socketsPath": "wss://ntc.appedr.com/_ws_/"
+    },
+    {
+      "college_code": "bk-tech",
+      "school_name_th": "วิทยาลัยเทคนิคบึงกาฬ",
+      "school_name_en": "Buengkan Technical College",
+      "edr_java_ipaddress": "https://bk-tech.appedr.com",
+      "edr_php_ipaddress": "https://bk-tech.appedr.com",
+      "socketsPath": "wss://bk-tech.appedr.com/_ws_/"
+    },
+    {
+      "college_code": "atc",
+      "school_name_th": "วิทยาลัยเทคนิคพระนครศรีอยุธยา",
+      "school_name_en": "Ayutthaya Technical College",
+      "edr_java_ipaddress": "https://ayuttech.appedr.com",
+      "edr_php_ipaddress": "https://ayuttech.appedr.com",
+      "socketsPath": "wss://ayuttech.appedr.com/_ws_/"
+    },
+    {
+      "college_code": "pntc",
+      "school_name_th": "วิทยาลัยเทคนิคพังงา",
+      "school_name_en": "Phang-nga Technical College",
+      "edr_java_ipaddress": "https://pntc.appedr.com",
+      "edr_php_ipaddress": "https://pntc.appedr.com",
+      "socketsPath": "wss://pntc.appedr.com/_ws_/"
+    },
+    {
+      "college_code": "retc",
+      "school_name_th": "วิทยาลัยเทคนิคร้อยเอ็ด",
+      "school_name_en": "Roi Et Technical College",
+      "edr_java_ipaddress": "https://retc.appedr.com",
+      "edr_php_ipaddress": "https://retc.appedr.com",
+      "socketsPath": "wss://retc.appedr.com/_ws_/"
+    },
+    {
+      "college_code": "sabtc",
+      "school_name_th": "วิทยาลัยเทคนิคสระบุรี",
+      "school_name_en": "Saraburi Technical College",
+      "edr_java_ipaddress": "https://sbt.appedr.com",
+      "edr_php_ipaddress": "https://sbt.appedr.com",
+      "socketsPath": "wss://sbt.appedr.com/_ws_/"
+    },
+    {
+      "college_code": "udontech",
+      "school_name_th": "วิทยาลัยเทคนิคอุดรธานี",
+      "school_name_en": "Udon Thani Technical College",
+      "edr_java_ipaddress": "https://udontech.appedr.com",
+      "edr_php_ipaddress": "https://udontech.appedr.com",
+      "socketsPath": "wss://udontech.appedr.com/_ws_/"
+    },
+    {
+      "college_code": "uthai",
+      "school_name_th": "วิทยาลัยเทคนิคอุทัยธานี",
+      "school_name_en": "Uthaithani Technical College",
+      "edr_java_ipaddress": "https://uthai.appedr.com",
+      "edr_php_ipaddress": "https://uthai.appedr.com",
+      "socketsPath": "wss://uthai.appedr.com/_ws_/"
+    },
+    {
+      "college_code": "dtec",
+      "school_name_th": "วิทยาลัยเทคนิคเดชอุดม",
+      "school_name_en": "Det-udom Technical College",
+      "edr_java_ipaddress": "https://dtec.appedr.com",
+      "edr_php_ipaddress": "https://dtec.appedr.com",
+      "socketsPath": "wss://dtec.appedr.com/_ws_/"
+    },
+    {
+      "college_code": "loeitech",
+      "school_name_th": "วิทยาลัยเทคนิคเลย",
+      "school_name_en": "Loei Technical College",
+      "edr_java_ipaddress": "https://loeitech.appedr.com",
+      "edr_php_ipaddress": "https://loeitech.appedr.com",
+      "socketsPath": "wss://loeitech.appedr.com/_ws_/"
+    },
+    {
+      "college_code": "wpptech",
+      "school_name_th": "วิทยาลัยเทคนิคเวียงป่าเป้า",
+      "school_name_en": "Wiang Pa Pao Technical College",
+      "edr_java_ipaddress": "https://wpptech.appedr.com",
+      "edr_php_ipaddress": "https://wpptech.appedr.com",
+      "socketsPath": "wss://wpptech.appedr.com/_ws_/"
+    },
+    {
+      "college_code": "mstc",
+      "school_name_th": "วิทยาลัยเทคนิคแม่สอด",
+      "school_name_en": "Maesod Technical College",
+      "edr_java_ipaddress": "https://maesod.appedr.com",
+      "edr_php_ipaddress": "https://maesod.appedr.com",
+      "socketsPath": "wss://maesod.appedr.com/_ws_/"
+    },
+    {
+      "college_code": "gsarabun",
+      "school_name_th": "ระบบสารบรรณ GATS",
+      "school_name_en": "ระบบสารบรรณ GATS",
+      "edr_java_ipaddress": "http://gsarabun.appedr.com",
+      "edr_php_ipaddress": "http://gsarabun.appedr.com:8088",
+      "socketsPath": "ws://gsarabun.appedr.com:9000"
+    },
+    {
+      "college_code": "edrtest",
+      "school_name_th": "วิทยาลัยตัวอย่าง",
+      "school_name_en": "Demo",
+      "edr_java_ipaddress": "https://test.appedr.com",
+      "edr_php_ipaddress": "https://test.appedr.com",
+      "socketsPath": "wss://test.appedr.com/_ws_/"
+    }
+  ]
+}

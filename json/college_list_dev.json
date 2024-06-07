@@ -9,12 +9,12 @@
     "ios_app_version": "2.1.6",
     "fource_update": false,
     "pause_update": true,
-    "test_var": "1.0.5"
+    "test_var": "1.0.6"
   },
   "customer_list": [
     {
       "college_code": "edrdemo",
-      "school_name_th": "สำหรับนักพัฒนา Test",
+      "school_name_th": "สำหรับนักพัฒนา",
       "school_name_en": "Developer",
       "edr_java_ipaddress": "https://test.appedr.com",
       "edr_php_ipaddress": "http://127.0.0.1:8088",

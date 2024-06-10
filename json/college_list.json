@@ -8,7 +8,7 @@
     "app_version": "2.1.6",
     "ios_app_version": "2.1.6",
     "fource_update": false,
-    "pause_update": false,
+    "pause_update": true,
     "test_var": "1.0.5"
   },
   "customer_list": [

@@ -240,9 +240,9 @@
       "college_code": "gsarabun",
       "school_name_th": "ระบบสารบรรณ GATS",
       "school_name_en": "ระบบสารบรรณ GATS",
-      "edr_java_ipaddress": "http://gsarabun.appedr.com",
-      "edr_php_ipaddress": "http://gsarabun.appedr.com:8088",
-      "socketsPath": "ws://gsarabun.appedr.com:9000"
+      "edr_java_ipaddress": "https://gsarabun.appedr.com",
+      "edr_php_ipaddress": "https://gsarabun.appedr.com",
+      "socketsPath": "wss://gsarabun.appedr.com/_ws_/"
     },
     {
       "college_code": "edrtest",

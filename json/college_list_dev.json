@@ -7,8 +7,8 @@
 	"list_dev_alt":"https://cdn.jsdelivr.net/gh/grandatsdev/grandatsdev.github.io/json/college_list_dev.json"
   },
   "app_version": {
-    "app_version": "2.1.6",
-    "ios_app_version": "2.1.6",
+    "app_version": "2.2.3",
+    "ios_app_version": "2.2.3",
     "fource_update": false,
     "pause_update": true,
     "test_var": "1.0.6"

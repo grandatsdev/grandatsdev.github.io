@@ -236,6 +236,14 @@
       "edr_php_ipaddress": "https://maesod.appedr.com",
       "socketsPath": "wss://maesod.appedr.com/_ws_/"
     },
+	{
+      "college_code": "htc",
+      "school_name_th": "วิทยาลัยเทคนิคหาดใหญ่",
+      "school_name_en": "Hatyai Technical College",
+      "edr_java_ipaddress": "https://htc.appedr.com",
+      "edr_php_ipaddress": "https://htc.appedr.com",
+      "socketsPath": "wss://htc.appedr.com/_ws_/"
+    },
     {
       "college_code": "gsarabun",
       "school_name_th": "ระบบสารบรรณ GATS",

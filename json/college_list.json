@@ -53,14 +53,6 @@
       "socketsPath": "wss://tapc.appedr.com/_ws_/"
     },
     {
-      "college_code": "takice",
-      "school_name_th": "วิทยาลัยการอาชีพตากฟ้า",
-      "school_name_en": "Takfa Industrial And Community Education College",
-      "edr_java_ipaddress": "https://takice.appedr.com",
-      "edr_php_ipaddress": "https://takice.appedr.com",
-      "socketsPath": "wss://takice.appedr.com/_ws_/"
-    },
-    {
       "college_code": "bice",
       "school_name_th": "วิทยาลัยการอาชีพบรรพตพิสัย",
       "school_name_en": "Banphotphisai Industrial and Community Education College",
@@ -149,28 +141,12 @@
       "socketsPath": "wss://ntc.appedr.com/_ws_/"
     },
     {
-      "college_code": "bk-tech",
-      "school_name_th": "วิทยาลัยเทคนิคบึงกาฬ",
-      "school_name_en": "Buengkan Technical College",
-      "edr_java_ipaddress": "https://bk-tech.appedr.com",
-      "edr_php_ipaddress": "https://bk-tech.appedr.com",
-      "socketsPath": "wss://bk-tech.appedr.com/_ws_/"
-    },
-    {
       "college_code": "atc",
       "school_name_th": "วิทยาลัยเทคนิคพระนครศรีอยุธยา",
       "school_name_en": "Ayutthaya Technical College",
       "edr_java_ipaddress": "https://ayuttech.appedr.com",
       "edr_php_ipaddress": "https://ayuttech.appedr.com",
       "socketsPath": "wss://ayuttech.appedr.com/_ws_/"
-    },
-    {
-      "college_code": "pntc",
-      "school_name_th": "วิทยาลัยเทคนิคพังงา",
-      "school_name_en": "Phang-nga Technical College",
-      "edr_java_ipaddress": "https://pntc.appedr.com",
-      "edr_php_ipaddress": "https://pntc.appedr.com",
-      "socketsPath": "wss://pntc.appedr.com/_ws_/"
     },
     {
       "college_code": "retc",
@@ -243,6 +219,14 @@
       "edr_java_ipaddress": "https://htc.appedr.com",
       "edr_php_ipaddress": "https://htc.appedr.com",
       "socketsPath": "wss://htc.appedr.com/_ws_/"
+    },
+	{
+      "college_code": "udcat",
+      "school_name_th": "วิทยาลัยเกษตรและเทคโนโลยีอุดรธานี",
+      "school_name_en": "Udon Thani College of Agriculture and Technology",
+      "edr_java_ipaddress": "https://udcat.appedr.com",
+      "edr_php_ipaddress": "https://udcat.appedr.com",
+      "socketsPath": "wss://udcat.appedr.com/_ws_/"
     },
     {
       "college_code": "gsarabun",

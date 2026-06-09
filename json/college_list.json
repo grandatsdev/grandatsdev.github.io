@@ -37,28 +37,12 @@
       "socketsPath": "wss://cptech.appedr.com/_ws_/"
     },
     {
-      "college_code": "chp",
-      "school_name_th": "วิทยาลัยการอาชีพชุมพวง",
-      "school_name_en": "Chumphuang Industrial and Community Education College",
-      "edr_java_ipaddress": "https://chp.appedr.com",
-      "edr_php_ipaddress": "https://chp.appedr.com",
-      "socketsPath": "wss://chp.appedr.com/_ws_/"
-    },
-    {
       "college_code": "tapc",
       "school_name_th": "วิทยาลัยการอาชีพตะกั่วป่า",
       "school_name_en": "Takuapa industrial and community education college",
       "edr_java_ipaddress": "https://tapc.appedr.com",
       "edr_php_ipaddress": "https://tapc.appedr.com",
       "socketsPath": "wss://tapc.appedr.com/_ws_/"
-    },
-    {
-      "college_code": "bice",
-      "school_name_th": "วิทยาลัยการอาชีพบรรพตพิสัย",
-      "school_name_en": "Banphotphisai Industrial and Community Education College",
-      "edr_java_ipaddress": "https://bice.appedr.com",
-      "edr_php_ipaddress": "https://bice.appedr.com",
-      "socketsPath": "wss://bice.appedr.com/_ws_/"
     },
     {
       "college_code": "bec",
@@ -155,14 +139,6 @@
       "edr_java_ipaddress": "https://retc.appedr.com",
       "edr_php_ipaddress": "https://retc.appedr.com",
       "socketsPath": "wss://retc.appedr.com/_ws_/"
-    },
-    {
-      "college_code": "sabtc",
-      "school_name_th": "วิทยาลัยเทคนิคสระบุรี",
-      "school_name_en": "Saraburi Technical College",
-      "edr_java_ipaddress": "https://sbt.appedr.com",
-      "edr_php_ipaddress": "https://sbt.appedr.com",
-      "socketsPath": "wss://sbt.appedr.com/_ws_/"
     },
     {
       "college_code": "udontech",

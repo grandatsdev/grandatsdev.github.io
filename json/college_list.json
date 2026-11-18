@@ -21,14 +21,6 @@
       "socketsPath": "wss://ksicec.appedr.com/_ws_/"
     },
     {
-      "college_code": "kwicec",
-      "school_name_th": "วิทยาลัยการอาชีพกุมภวาปี",
-      "school_name_en": "Kumphawapi Industrial and Community Education College",
-      "edr_java_ipaddress": "https://kwicec.appedr.com",
-      "edr_php_ipaddress": "https://kwicec.appedr.com",
-      "socketsPath": "wss://kwicec.appedr.com/_ws_/"
-    },
-    {
       "college_code": "cptech",
       "school_name_th": "วิทยาลัยการอาชีพชุมพร",
       "school_name_en": "Chumphon Industrial And Community Education College",
@@ -43,22 +35,6 @@
       "edr_java_ipaddress": "https://tapc.appedr.com",
       "edr_php_ipaddress": "https://tapc.appedr.com",
       "socketsPath": "wss://tapc.appedr.com/_ws_/"
-    },
-    {
-      "college_code": "bec",
-      "school_name_th": "วิทยาลัยการอาชีพบ้านผือ",
-      "school_name_en": "Banphue Industrial and Community Education College",
-      "edr_java_ipaddress": "https://bec.appedr.com",
-      "edr_php_ipaddress": "https://bec.appedr.com",
-      "socketsPath": "wss://bec.appedr.com/_ws_/"
-    },
-    {
-      "college_code": "mice",
-      "school_name_th": "วิทยาลัยการอาชีพมหาราช",
-      "school_name_en": "Maharaj Industial and Community Education College",
-      "edr_java_ipaddress": "https://mice.appedr.com",
-      "edr_php_ipaddress": "https://mice.appedr.com",
-      "socketsPath": "wss://mice.appedr.com/_ws_/"
     },
     {
       "college_code": "sbr",
@@ -99,14 +75,6 @@
       "edr_java_ipaddress": "https://udvc.appedr.com",
       "edr_php_ipaddress": "https://udvc.appedr.com",
       "socketsPath": "wss://udvc.appedr.com/_ws_/"
-    },
-    {
-      "college_code": "kpsptc",
-      "school_name_th": "วิทยาลัยเทคนิคกาญจนาภิเษก สมุทรปราการ",
-      "school_name_en": "Kanchanaphisek Technical College, Samut Prakan",
-      "edr_java_ipaddress": "https://kpsptc.appedr.com",
-      "edr_php_ipaddress": "https://kpsptc.appedr.com",
-      "socketsPath": "wss://kpsptc.appedr.com/_ws_/"
     },
     {
       "college_code": "taktc",
